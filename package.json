@@ -9,18 +9,19 @@
   "devDependencies": {},
   "scripts": {
     "test": "grunt nodeunit"
+   
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sithu/cmpe273-lab2"
+    "url": "https://github.com/puneetpopli/cmpe273-lab2"
   },
   "keywords": [
     "nodejs",
     "connect"
   ],
-  "author": "Sithu Aung",
+  "author": "Puneet Popli",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/sithu/cmpe273-lab2/issues"
+    "url": "https://github.com/puneetpopli/cmpe273-lab2/issues"
   }
 }
